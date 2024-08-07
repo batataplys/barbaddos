@@ -5,14 +5,9 @@ body{
 p{
     text-align: center;
 }
-
-#para1 {
-     color: rgb(0, 0, 0);
-}
-strong{
+em strong{
     color: red;
 }
-
 p{
     font-size: 20px;
 }
