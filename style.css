@@ -4,6 +4,7 @@
 
 .principal {
     background-color: #a1a1a1cc;
+    padding: 30px;
 }
 
 h1 {
@@ -28,6 +29,7 @@ em strong {
 
 .beneficios {
     background-color: #FFFFFF;
+    padding: 20px;
 }
 
 h2 {
