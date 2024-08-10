@@ -1,4 +1,4 @@
-body{
+body {
     background-color: #797979cc;
 }
 
@@ -10,10 +10,10 @@ p {
     text-align: center;
 }
 
-#missao{
+#missao {
     font-size: 25px;
 }
 
-em strong{
+em strong {
     color: red;
 }
